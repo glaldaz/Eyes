@@ -3,6 +3,9 @@
 ## Description
 A web app that display two eyes that follow the mouse movements. I was provided the app with one eye and I was able to add another eye to the page and allow both to follow the mouse.
 
+### Things I Learnes In This Project:
+- Working with Event listeners
+
 ## How To Run
 Opent the index.html file in the web browser to run the app.
 
